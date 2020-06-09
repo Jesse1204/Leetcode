@@ -11,6 +11,6 @@
   
 更好的方法是，直接比较 n&n-1 是否为0，如图。  
 
-
+![](https://github.com/Jesse1204/Leetcode/raw/master/Images/231.JPG)
   
 [Leetcode Link](https://leetcode.com/problems/power-of-two/)
