@@ -6,5 +6,6 @@
 [1470. Shuffle the Array ](https://github.com/Jesse1204/Leetcode/tree/master/Two_Pointers/1470.%20Shuffle%20the%20Array)(Two Pointers) (E) 
 
 #### 6月8日  
-[231. Power of Two](https://github.com/Jesse1204/Leetcode/tree/master/Bit/231.%20Power%20of%20Two)
+[231. Power of Two](https://github.com/Jesse1204/Leetcode/tree/master/Bit/231.%20Power%20of%20Two) (Bit manipulation) (E)  
+[528. Random Pick with Weight](https://github.com/Jesse1204/Leetcode/tree/master/Math/528.%20Random%20Pick%20with%20Weight)
 
