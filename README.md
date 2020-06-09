@@ -7,5 +7,5 @@
 
 #### 6月8日  
 [231. Power of Two](https://github.com/Jesse1204/Leetcode/tree/master/Bit/231.%20Power%20of%20Two) (Bit manipulation) (E)  
-[528. Random Pick with Weight](https://github.com/Jesse1204/Leetcode/tree/master/Math/528.%20Random%20Pick%20with%20Weight)
+[528. Random Pick with Weight](https://github.com/Jesse1204/Leetcode/tree/master/Math/528.%20Random%20Pick%20with%20Weight) (Math) (M)
 
