@@ -11,5 +11,8 @@ list.subList(2,list.size()).clear()之后
   
 list = [0,1]  
   
+时间复杂度：O(n)  
+  
+空间复杂度：O(n)  
   
 [Leetcode Link](https://leetcode.com/problems/design-browser-history/)

@@ -7,4 +7,8 @@ Strong的排序方法为，比较每个元素和中位数差值的绝对值，�
   
 本题应该有更好解法，排序之后用双指针会更快。  
   
+时间复杂度：O(nlogn) 因为第一步进行了排序。使用优先队列的部分是O(nlogk)  
+
+空间复杂度：O(k) PQ的大小  
+  
 [Leetcode Link](https://leetcode.com/problems/the-k-strongest-values-in-an-array/)
