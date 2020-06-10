@@ -10,4 +10,4 @@
 [528. Random Pick with Weight](https://github.com/Jesse1204/Leetcode/tree/master/Math/528.%20Random%20Pick%20with%20Weight) (Math) (M)
 
 #### 6月9日  
-392. [Is Subsequence](https://leetcode.com/problems/is-subsequence/) (Two_Pointer/DP/Greedy) (E) (Unresolved)
+392. [Is Subsequence](https://github.com/Jesse1204/Leetcode/tree/master/Two_Pointers/392.%20Is%20Subsequence) (Two_Pointer/DP/Greedy) (E) (Unresolved)
