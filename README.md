@@ -19,4 +19,4 @@
 [75. Sort Colors](https://github.com/Jesse1204/Leetcode/tree/master/Sort/75.%20Sort%20Colors) (Sort/Two_Pointer) (M)  
   
 #### 6月12日
-380. Insert Delete GetRandom O(1)
+[380. Insert Delete GetRandom O(1)](https://github.com/Jesse1204/Leetcode/tree/master/Design/380.%20Insert%20Delete%20GetRandom%20O(1)) (Design) (M)
