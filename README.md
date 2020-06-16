@@ -10,13 +10,24 @@
 [528. Random Pick with Weight](https://github.com/Jesse1204/Leetcode/tree/master/Math/528.%20Random%20Pick%20with%20Weight) (Math) (M)
 
 #### 6月9日  
-[392.Is Subsequence](https://github.com/Jesse1204/Leetcode/tree/master/Two_Pointers/392.%20Is%20Subsequence) (Two_Pointer/DP/Greedy) (E) (Unresolved)  
+[392.Is Subsequence](https://github.com/Jesse1204/Leetcode/tree/master/Two_Pointers/392.%20Is%20Subsequence) (Two_Pointer/DP/Greedy) (E) (**Unresolved**)  
 
 #### 6月10日  
 [35. Search Insert Position](https://github.com/Jesse1204/Leetcode/tree/master/Binary_Search/35.%20Search%20Insert%20Position) (Two_Pointer/Binary_Search) (E)  
   
 #### 6月11日  
-[75. Sort Colors](https://github.com/Jesse1204/Leetcode/tree/master/Sort/75.%20Sort%20Colors) (Sort/Two_Pointer) (M)  
+[75. Sort Colors](https://github.com/Jesse1204/Leetcode/tree/master/Sort/75.%20Sort%20Colors) (Sort/Two_Pointer) (M) (**Unresolved**)
   
 #### 6月12日
-[380. Insert Delete GetRandom O(1)](https://github.com/Jesse1204/Leetcode/tree/master/Design/380.%20Insert%20Delete%20GetRandom%20O(1)) (Design) (M)
+[380. Insert Delete GetRandom O(1)](https://github.com/Jesse1204/Leetcode/tree/master/Design/380.%20Insert%20Delete%20GetRandom%20O(1)) (Design) (M) (**Unresolved**)  
+  
+#### 6月13日
+[1480. Running Sum of 1d Array](https://github.com/Jesse1204/Leetcode/tree/master/Design/380.%20Insert%20Delete%20GetRandom%20O(1)) (Array) (Prefix Sum) (E)
+[1481. Least Number of Unique Integers after K Removal](https://github.com/Jesse1204/Leetcode/tree/master/Design/380.%20Insert%20Delete%20GetRandom%20O(1)) (Binary Search) (Hashtable) (M)(**Unresolved**)  
+[368. Largest Divisible Subset](https://github.com/Jesse1204/Leetcode/tree/master/Design/380.%20Insert%20Delete%20GetRandom%20O(1)) (DP) (Math) (M) (**Unresolved**)  
+  
+#### 6月14日
+[787. Cheapest Flights Within K Stops](https://github.com/Jesse1204/Leetcode/tree/master/Design/380.%20Insert%20Delete%20GetRandom%20O(1)) (Graph) (Dijkstra/Bellman-Ford) (Shortest Path) (M) (**Unresolved**)  
+  
+#### 6月15日
+[700. Search in a Binary Search Tree](https://github.com/Jesse1204/Leetcode/tree/master/Design/380.%20Insert%20Delete%20GetRandom%20O(1)) (Tree) (Shortest Path) (E)
