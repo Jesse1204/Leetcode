@@ -49,11 +49,8 @@
 
 #### 6月21日
 [1486. XOR Operation in an Array](https://github.com/Jesse1204/Leetcode/tree/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree) (Bit) (Easy) (**Unresolved**) 
-  
 [1487. Making File Names Unique](https://github.com/Jesse1204/Leetcode/tree/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree) (Medium) (**Unresolved**)  
-  
 [1488. Avoid Flood in The City](https://github.com/Jesse1204/Leetcode/tree/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree)  (TreeSet) (Medium) (**Unresolved**)  
-  
 [174. Dungeon Game](https://github.com/Jesse1204/Leetcode/tree/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree) (DP) (Back-tracking) (Hard) (**Unresolved**)  
 
 #### 6月22日
