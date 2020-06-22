@@ -31,3 +31,24 @@
   
 #### 6月15日
 [700. Search in a Binary Search Tree](https://github.com/Jesse1204/Leetcode/tree/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree) (Tree) (Shortest Path) (E)
+
+#### 6月16日
+[700. Search in a Binary Search Tree](https://github.com/Jesse1204/Leetcode/tree/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree) (Tree) (Shortest Path) (E)
+
+#### 6月17日
+[700. Search in a Binary Search Tree](https://github.com/Jesse1204/Leetcode/tree/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree) (Tree) (Shortest Path) (E)
+
+#### 6月18日
+[700. Search in a Binary Search Tree](https://github.com/Jesse1204/Leetcode/tree/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree) (Tree) (Shortest Path) (E)
+
+#### 6月19日
+[700. Search in a Binary Search Tree](https://github.com/Jesse1204/Leetcode/tree/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree) (Tree) (Shortest Path) (E)
+
+#### 6月20日
+[700. Search in a Binary Search Tree](https://github.com/Jesse1204/Leetcode/tree/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree) (Tree) (Shortest Path) (E)
+
+#### 6月21日
+[700. Search in a Binary Search Tree](https://github.com/Jesse1204/Leetcode/tree/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree) (Tree) (Shortest Path) (E)
+
+#### 6月22日
+[700. Search in a Binary Search Tree](https://github.com/Jesse1204/Leetcode/tree/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree) (Tree) (Shortest Path) (E)
