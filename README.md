@@ -48,10 +48,10 @@
 [60. Permutation Sequence](https://github.com/Jesse1204/Leetcode/tree/master/Math/60.%20Permutation%20Sequence) (Math) (Back-tracking) (Medium) (**Unresolved**)  
 
 #### 6月21日
-[1486. XOR Operation in an Array](https://github.com/Jesse1204/Leetcode/tree/master/Bit/1486.%20XOR%20Operation%20in%20an%20Array) (Bit) (Easy) (**Unresolved**) 
+[1486. XOR Operation in an Array](https://github.com/Jesse1204/Leetcode/tree/master/Bit/1486.%20XOR%20Operation%20in%20an%20Array) (Bit) (Easy) (**Unresolved**)  
 [1487. Making File Names Unique](https://github.com/Jesse1204/Leetcode/tree/master/Others/1487.%20Making%20File%20Names%20Unique) (Medium) (**Unresolved**)  
 [1488. Avoid Flood in The City](https://github.com/Jesse1204/Leetcode/tree/master/Others/1488.%20Avoid%20Flood%20in%20The%20City)  (TreeSet) (Medium) (**Unresolved**)  
 [174. Dungeon Game](https://github.com/Jesse1204/Leetcode/tree/master/DP/174.%20Dungeon%20Game) (DP) (Back-tracking) (Hard) (**Unresolved**)  
 
 #### 6月22日
-[137. Single Number II](https://github.com/Jesse1204/Leetcode/tree/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree) (Bit) (HashMap) (Medium) (**Unresolved**)  
+[137. Single Number II](https://github.com/Jesse1204/Leetcode/tree/master/Bit/137.%20Single%20Number%20II) (Bit) (HashMap) (Medium) (**Unresolved**)  
