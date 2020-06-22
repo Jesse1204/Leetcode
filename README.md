@@ -33,25 +33,25 @@
 [700. Search in a Binary Search Tree](https://github.com/Jesse1204/Leetcode/tree/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree) (Tree) (Shortest Path) (Easy)
 
 #### 6月16日
-[468. Validate IP Address](https://github.com/Jesse1204/Leetcode/tree/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree) (Divide & Conquer) (Regular Expression) (Medium) (**Unresolved**)  
+[468. Validate IP Address](https://github.com/Jesse1204/Leetcode/tree/master/Divide_Conquer/468.%20Validate%20IP%20Address) (Divide & Conquer) (Regular Expression) (Medium) (**Unresolved**)  
 
 #### 6月17日
-[130. Surrounded Regions](https://github.com/Jesse1204/Leetcode/tree/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree) (DFS/BFS) (Shortest Path) (Medium) (**Unresolved**)  
+[130. Surrounded Regions](https://github.com/Jesse1204/Leetcode/tree/master/DFS/130.%20Surrounded%20Regions) (DFS/BFS) (Shortest Path) (Medium) (**Unresolved**)  
 
 #### 6月18日
-[275. H-Index II](https://github.com/Jesse1204/Leetcode/tree/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree) (Tree) (Binary Search) (Medium) (**Unresolved**)  
+[275. H-Index II](https://github.com/Jesse1204/Leetcode/tree/master/Binary_Search/275.%20H-Index%20II) (Tree) (Binary Search) (Medium) (**Unresolved**)  
 
 #### 6月19日
-[1044. Longest Duplicate Substring](https://github.com/Jesse1204/Leetcode/tree/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree) (Binary Search) (Rabin-Karp) (Hard) (**Unresolved**)  
+[1044. Longest Duplicate Substring](https://github.com/Jesse1204/Leetcode/tree/master/String/1044.%20Longest%20Duplicate%20Substring) (Binary Search) (Rabin-Karp) (Hard) (**Unresolved**)  
 
 #### 6月20日
-[60. Permutation Sequence](https://github.com/Jesse1204/Leetcode/tree/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree) (Math) (Back-tracking) (Medium) (**Unresolved**)  
+[60. Permutation Sequence](https://github.com/Jesse1204/Leetcode/tree/master/Math/60.%20Permutation%20Sequence) (Math) (Back-tracking) (Medium) (**Unresolved**)  
 
 #### 6月21日
-[1486. XOR Operation in an Array](https://github.com/Jesse1204/Leetcode/tree/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree) (Bit) (Easy) (**Unresolved**) 
-[1487. Making File Names Unique](https://github.com/Jesse1204/Leetcode/tree/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree) (Medium) (**Unresolved**)  
-[1488. Avoid Flood in The City](https://github.com/Jesse1204/Leetcode/tree/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree)  (TreeSet) (Medium) (**Unresolved**)  
-[174. Dungeon Game](https://github.com/Jesse1204/Leetcode/tree/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree) (DP) (Back-tracking) (Hard) (**Unresolved**)  
+[1486. XOR Operation in an Array](https://github.com/Jesse1204/Leetcode/tree/master/Bit/1486.%20XOR%20Operation%20in%20an%20Array) (Bit) (Easy) (**Unresolved**) 
+[1487. Making File Names Unique](https://github.com/Jesse1204/Leetcode/tree/master/Others/1487.%20Making%20File%20Names%20Unique) (Medium) (**Unresolved**)  
+[1488. Avoid Flood in The City](https://github.com/Jesse1204/Leetcode/tree/master/Others/1488.%20Avoid%20Flood%20in%20The%20City)  (TreeSet) (Medium) (**Unresolved**)  
+[174. Dungeon Game](https://github.com/Jesse1204/Leetcode/tree/master/DP/174.%20Dungeon%20Game) (DP) (Back-tracking) (Hard) (**Unresolved**)  
 
 #### 6月22日
 [137. Single Number II](https://github.com/Jesse1204/Leetcode/tree/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree) (Bit) (HashMap) (Medium) (**Unresolved**)  
