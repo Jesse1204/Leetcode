@@ -33,7 +33,7 @@
 [700. Search in a Binary Search Tree](https://github.com/Jesse1204/Leetcode/tree/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree) (Tree) (Shortest Path) (Easy)
 
 #### 6月16日
-[468. Validate IP Address](https://github.com/Jesse1204/Leetcode/tree/master/Divide_Conquer/468.%20Validate%20IP%20Address) (Divide & Conquer) (Regular Expression) (Medium) (**Unresolved**)  
+[468. Validate IP Address](https://github.com/Jesse1204/Leetcode/tree/master/Divide_Conquer/468.%20Validate%20IP%20Address) (Divide & Conquer) (Regular Expression) (Medium)   
 
 #### 6月17日
 [130. Surrounded Regions](https://github.com/Jesse1204/Leetcode/tree/master/DFS/130.%20Surrounded%20Regions) (DFS/BFS) (Shortest Path) (Medium) (**Unresolved**)  
@@ -55,3 +55,6 @@
 
 #### 6月22日
 [137. Single Number II](https://github.com/Jesse1204/Leetcode/tree/master/Bit/137.%20Single%20Number%20II) (Bit) (HashMap) (Medium) (**Unresolved**)  
+  
+#### 6月23日
+[222. Count Complete Tree Nodes](https://github.com/Jesse1204/Leetcode/tree/master/Bit/137.%20Single%20Number%20II) (Bit) (HashMap) (Medium) (**Unresolved**)  
