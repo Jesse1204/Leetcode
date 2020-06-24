@@ -18,7 +18,7 @@ Java和Python内置了验证IP地址的函数，直接调用即可。如果IPv4�
   
 #### 解法3 分治：  
 见下图：  
-  
+![https://github.com/Jesse1204/Leetcode/blob/master/Images/468.png](https://github.com/Jesse1204/Leetcode/blob/master/Images/468.png)
   
 时间复杂度：O(n)，知道有多少个点需要parse整个string一次  
 
