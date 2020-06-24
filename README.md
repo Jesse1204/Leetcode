@@ -57,4 +57,4 @@
 [137. Single Number II](https://github.com/Jesse1204/Leetcode/tree/master/Bit/137.%20Single%20Number%20II) (Bit) (HashMap) (Medium) (**Unresolved**)  
   
 #### 6月23日
-[222. Count Complete Tree Nodes](https://github.com/Jesse1204/Leetcode/tree/master/Bit/137.%20Single%20Number%20II) (Bit) (HashMap) (Medium) (**Unresolved**)  
+[222. Count Complete Tree Nodes](https://github.com/Jesse1204/Leetcode/tree/master/Tree/222.%20Count%20Complete%20Tree%20Nodes) (Tree) (Binary Search) (Medium)  
