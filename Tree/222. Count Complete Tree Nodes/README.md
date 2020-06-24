@@ -12,7 +12,8 @@
 空间复杂度：O(d) = O(logN)，d为树的深度  
   
 #### 解法2 二分查找：
-  
+根据完全二叉树的定义，除了最后一层之外，每一层都是满的。如下图所示。  
+![222-1](https://github.com/Jesse1204/Leetcode/blob/master/Images/222-1.png)
 时间复杂度：O(N)
   
 空间复杂度：O(d) = O(logN)，d为树的深度  
