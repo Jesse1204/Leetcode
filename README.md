@@ -52,9 +52,9 @@
 [1487. Making File Names Unique](https://github.com/Jesse1204/Leetcode/tree/master/Others/1487.%20Making%20File%20Names%20Unique) (Medium) (**Unresolved**)  
 [1488. Avoid Flood in The City](https://github.com/Jesse1204/Leetcode/tree/master/Others/1488.%20Avoid%20Flood%20in%20The%20City)  (TreeSet) (Medium) (**Unresolved**)  
 [174. Dungeon Game](https://github.com/Jesse1204/Leetcode/tree/master/DP/174.%20Dungeon%20Game) (DP) (Back-tracking) (Hard) (**Unresolved**)  
-
 #### 6月22日
 [137. Single Number II](https://github.com/Jesse1204/Leetcode/tree/master/Bit/137.%20Single%20Number%20II) (Bit) (HashMap) (Medium) (**Unresolved**)  
-  
 #### 6月23日
 [222. Count Complete Tree Nodes](https://github.com/Jesse1204/Leetcode/tree/master/Tree/222.%20Count%20Complete%20Tree%20Nodes) (Tree) (Binary Search) (Medium)  
+#### 6月24日
+[96. Unique Binary Search Trees](https://github.com/Jesse1204/Leetcode/tree/master/Tree/222.%20Count%20Complete%20Tree%20Nodes) (DP) (Tree) (Medium)  
