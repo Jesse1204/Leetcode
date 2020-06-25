@@ -57,4 +57,4 @@
 #### 6月23日
 [222. Count Complete Tree Nodes](https://github.com/Jesse1204/Leetcode/tree/master/Tree/222.%20Count%20Complete%20Tree%20Nodes) (Tree) (Binary Search) (Medium)  
 #### 6月24日
-[96. Unique Binary Search Trees](https://github.com/Jesse1204/Leetcode/tree/master/Tree/222.%20Count%20Complete%20Tree%20Nodes) (DP) (Tree) (Medium)  
+[96. Unique Binary Search Trees](https://github.com/Jesse1204/Leetcode/tree/master/DP/96.%20Unique%20Binary%20Search%20Trees) (DP) (Tree) (Medium)  
