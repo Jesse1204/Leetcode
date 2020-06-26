@@ -59,4 +59,4 @@
 #### 6月24日
 [96. Unique Binary Search Trees](https://github.com/Jesse1204/Leetcode/tree/master/DP/96.%20Unique%20Binary%20Search%20Trees) (DP) (Tree) (Medium)  
 #### 6月25日
-[287. Find the Duplicate Number](https://github.com/Jesse1204/Leetcode/tree/master/DP/96.%20Unique%20Binary%20Search%20Trees) (Binary Seach) (Cycle Detection in LinkedList) (Floyd's tortoise and hare) (Medium) (**Unresolved**)   
+[287. Find the Duplicate Number](https://github.com/Jesse1204/Leetcode/tree/master/LinkedList/287.%20Find%20the%20Duplicate%20Number) (Binary Seach) (Cycle Detection in LinkedList) (Floyd's tortoise and hare) (Medium) (**Unresolved**)   
